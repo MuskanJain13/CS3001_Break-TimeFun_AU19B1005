@@ -33,3 +33,32 @@ So, each of these categories consist of a set of questions. After selecting Play
 ![Image](https://github.com/MuskanJain13/CS3001_Break-TimeFun_AU19B1005/blob/readme-edits/page_5.png)
 ![Image](https://github.com/MuskanJain13/CS3001_Break-TimeFun_AU19B1005/blob/readme-edits/page_6.png)
 
+## Gathering technical requirements
+
+*	Identification of Problem
+*	Gathering technical requirements
+*	Spyder (Python (3.7)
+*	Module for GUI - PySimpleGUI or Tkinter: Window, Keys, Labels, Text and user inputs, Buttons (Elements or Widgets)
+*	Conditional statements – if else
+*	Counter variables – SKIP, LIFE, SCORE
+*	Sequences
+
+## Steps to proceed
+
+1.  Create a basic window.
+2.  Display text and buttons on window - Play Game! and Game Info.
+3.  Game Info - Display text and Play Game! button.
+4.  Play Game! - Display text and 3 buttons: MATH, RIDDLE, G.K.
+5.  RIDDLE - Display a card TRY ME (button)
+    After clicking card, question and text box should appear.
+    Display 3 lives on the page.
+6.  Validate the answer
+    After the answer is feeded and enter is pressed, answer should be evaluated as wrong or correct.
+    Display correct or wrong answer!
+7.  Correct answer - NEXT button should appear.
+8.  Wrong answer - 1 life becomes red.
+9.  Display SKIP button - can be used only 2 times.
+10. Score - Display score on the game page.
+    Correct answer - (+5)
+    Wrong answer - (-4)
+
